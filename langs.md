@@ -1,0 +1,8 @@
+- [x] HTML
+- [x] CSS
+- [x] Python
+- [x] JavaScript
+- [ ] Ruby
+- [ ] TypeScript
+- [ ] C#
+- [ ] C++
